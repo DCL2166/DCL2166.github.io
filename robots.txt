@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://DCL2166.github.io/sitemap.xml
